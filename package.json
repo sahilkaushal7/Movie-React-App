@@ -1,7 +1,7 @@
 {
   "name": "my-movie-app",
   "version": "0.1.0",
-  "homepage" : "https://sahilkaushal7.github.io/Movie-React-App",
+  "homepage" : "https://sahilkaushal7.github.io/Movie-React-App/",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
